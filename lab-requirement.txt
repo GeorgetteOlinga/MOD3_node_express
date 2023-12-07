@@ -42,7 +42,7 @@ Tell the server where to listen for requests (the port).
 
 ==============Greetings===============
 
-Make a route '/greeting'that sends a generic greeting to the screen like "Hello, stranger".
+Make a route ''that sends a generic greeting to the screen like "Hello, stranger".
 Give the greeting route a param /:name
 When hitting the route, the page should display a message such as "Hello, ", or "What's up, <name>", or "<name>! It's so great to see you!" (ex. hitting '/greeting/Jimmy-boy'should display Wow! Hello there, Jimmy-boy on the page).
 🔴 Commit : "Greeting express application created."
